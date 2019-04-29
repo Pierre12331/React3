@@ -2,8 +2,13 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
+img.lent {
+  animation: App-logo-spin infinite 2s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+img.rapide {
+  animation: App-logo-spin infinite 20 s linear;
   height: 40vmin;
   pointer-events: none;
 }
